@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 2713000 |
 | Functions | Chapters / Damage / Combat speed / Encounters / Exploration |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 
