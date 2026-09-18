@@ -30,4 +30,4 @@ Switch between saved exploration and combat configurations.
 
 Select a chapter profile, adjust damage and pacing, then practise the encounter. Reduce assistance on later attempts and keep your preferred settings.
 
-[Download for PC](https://flyn.im/Eeffel)
+[Download for PC](https://gaterivermoat.github.io/)
